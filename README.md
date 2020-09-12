@@ -28,4 +28,4 @@
 
 ### Music
 
-[<img src="https://isley-griffith.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/eyptlsvq4pz387ky7thyobmv3)
+[<img src="https://spotifyreadme.isley-griffith.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/eyptlsvq4pz387ky7thyobmv3)
