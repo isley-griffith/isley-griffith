@@ -27,3 +27,5 @@
 <br />
 
 ### Music
+
+[![Spotify](https://isley-griffith.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
