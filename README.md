@@ -28,4 +28,4 @@
 
 ### Music
 
-[![Spotify](https://isley-griffith.vercel.app/api/spotify)](https://open.spotify.com/user/eyptlsvq4pz387ky7thyobmv3)
+[![Spotify](https://https://isley-griffith.isley-griffith.vercel.app//api/spotify)](https://open.spotify.com/user/eyptlsvq4pz387ky7thyobmv3)
