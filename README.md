@@ -1,6 +1,6 @@
-## Isley Griffith
-## Senior Computer Science student at Colorado College
-###### interests: flamenco and classical guitar, drawing, coding.
+# <span style="font-family:futura">Isley Griffith</span>
+### <span style="font-family:futura">Senior Computer Science student at Colorado College</span>
+###### <span style="font-family:futura">interests: flamenco and classical guitar, drawing, coding.</span>
 
 ### Languages
 
