@@ -1,5 +1,5 @@
 # <span style="font-family:futura">Isley Griffith</span>
-# <span>Check out my website: https://isleygriffith.dev</span>
+# <span>Check out my website: https://isleys-bio.vercel.app/</span>
 ### <span style="font-family:futura">Software Engineer at Olive AI</span>
 ###### <span style="font-family:futura">interests: flamenco and classical guitar, drawing, coding.</span>
 ###### <span style="font-family:futura">speaks: English, some Spanish.</span>
