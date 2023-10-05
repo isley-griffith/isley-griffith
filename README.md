@@ -1,5 +1,5 @@
 # <span style="font-family:futura">Isley Griffith</span>
-# <span>my website: https://isleygriffith.vercel.app/</span>
+# <span>https://www.isleygriffith.io/</span>
 ### <span style="font-family:futura">Full Stack Software Engineer at RealT</span>
 ###### <span style="font-family:futura">interests: flamenco and classical guitar, drawing, coding.</span>
 
